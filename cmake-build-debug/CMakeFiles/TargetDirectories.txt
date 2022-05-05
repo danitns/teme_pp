@@ -1,0 +1,3 @@
+C:/Users/danit/Documents/GitHub/teme_pp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/danit/Documents/GitHub/teme_pp/cmake-build-debug/CMakeFiles/teme_pp.dir
+C:/Users/danit/Documents/GitHub/teme_pp/cmake-build-debug/CMakeFiles/edit_cache.dir
