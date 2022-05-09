@@ -1,2 +1,3 @@
-# teme_pp
+# Teme pp
  
+[Divide et impera](./Divide et impera)
