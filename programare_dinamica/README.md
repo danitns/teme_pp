@@ -1,4 +1,4 @@
-    Se dau două șiruri de caractere s și t. Asupra șirului s se pot aplica în mod repetat
+Se dau două șiruri de caractere s și t. Asupra șirului s se pot aplica în mod repetat
 operațiile:
 ● șterge un caracter
 ● inserează un caracter
